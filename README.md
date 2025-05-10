@@ -68,3 +68,5 @@ For details on how to use the system, please refer to **[USAGE.md](USAGE.md)**.
 ### 👤 User Management Page  
 ![User Management Page](image/image_8.png)
 
+### ERD Diagram
+![ERD Diagram](image/image_9.png)

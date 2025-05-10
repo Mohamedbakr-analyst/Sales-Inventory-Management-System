@@ -1,0 +1,43 @@
+﻿<Window x:Class="BikeStore10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:BikeStore10"
+        mc:Ignorable="d"
+        Title="Store Application" Height="830" Width="1550" WindowStartupLocation="CenterScreen" Background="{x:Null}" Icon="image/racing.png" PreviewKeyDown="Window_PreviewKeyDown" Closed="Window_Closed" WindowState="Maximized">
+    <Grid Background="White" Margin="0,0,4,-0.2" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid  HorizontalAlignment="Left" Margin="1099,0,-4,0" Width="443"  Background="White"  Height="801" VerticalAlignment="Top">
+
+            <Label Content="Sign in" HorizontalAlignment="Left" Margin="18,303,0,0" VerticalAlignment="Top" Width="70" Height="32" Foreground="Black" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" FontSize="18"/>
+            <Border x:Name="border_signin" BorderThickness="1" HorizontalAlignment="Left" Height="34" Margin="103,566,0,0" VerticalAlignment="Top" Width="235" Background="#FF001FFF" CornerRadius="10" Panel.ZIndex="0"/>
+            <Label x:Name="label_signin" Content="Sign in" Margin="103,566,0,0" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold" FontSize="14" Foreground="White" Panel.ZIndex="1" Height="34" VerticalAlignment="Top" MouseEnter="label_signin_MouseEnter" MouseLeave="label_signin_MouseLeave" MouseLeftButtonDown="label_signin_MouseLeftButtonDown" HorizontalAlignment="Left" Width="235"/>
+            <Rectangle Height="2" Margin="26,336,0,0" VerticalAlignment="Top" Fill="Black" HorizontalAlignment="Left" Width="392"/>
+            <Rectangle Height="1" Margin="53,436,0,0" VerticalAlignment="Top" Fill="Black" HorizontalAlignment="Left" Width="338"/>
+            <Label Content="Username" HorizontalAlignment="Left" Margin="39,373,0,0" VerticalAlignment="Top" Height="27" Width="70" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+            <Label Content="Password" HorizontalAlignment="Left" Margin="39,451,0,0" VerticalAlignment="Top" Height="27" Width="70" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold"/>
+            <TextBox x:Name="textbox_1" HorizontalAlignment="Left" Height="23" Margin="78,402,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="309" BorderBrush="{x:Null}" MouseEnter="textbox_1_MouseEnter_1" TextChanged="textbox_1_TextChanged" LostFocus="textbox_1_LostFocus" PreviewKeyDown="textbox_1_PreviewKeyDown" Panel.ZIndex="1" Background="{x:Null}" FontSize="14"/>
+            <Rectangle HorizontalAlignment="Left" Height="1" Margin="53,515,0,0" VerticalAlignment="Top" Width="338" Fill="Black"/>
+            <TextBox x:Name="textbox_2" HorizontalAlignment="Left" Height="23" Margin="78,479,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="309" MouseEnter="textbox_2_MouseEnter" BorderBrush="{x:Null}" LostFocus="textbox_2_LostFocus" TextChanged="textbox_2_TextChanged" PreviewKeyDown="textbox_2_PreviewKeyDown" Panel.ZIndex="1" Background="{x:Null}" FontSize="14"/>
+            <Image HorizontalAlignment="Left" Height="17" Margin="60,401,0,0" VerticalAlignment="Top" Width="19" Source="image/baseline_person_outline_black_24dp.png"/>
+            <Image HorizontalAlignment="Left" Height="17" Margin="60,479,0,0" VerticalAlignment="Top" Width="19" Source="image/baseline_lock_outline_black_24dp.png"/>
+            <Label x:Name="lable_1" Content="Write name..." HorizontalAlignment="Left" Margin="76,398,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF888787" Panel.ZIndex="0"/>
+            <Label x:Name="lable_2" Content="Write password..." HorizontalAlignment="Left" Margin="76,475,0,0" VerticalAlignment="Top" Width="100" Foreground="#FF888787" Height="26" Panel.ZIndex="0"/>
+            <Border BorderBrush="Black" BorderThickness="1" Height="153" VerticalAlignment="Top" Margin="145,99,146,0" CornerRadius="100">
+                <Border.Background>
+                    <ImageBrush ImageSource="image/Default_I_want_a_logo_for_an_app_that_sells_Bicycles_It_should_0 (1).jpg" Stretch="UniformToFill"/>
+                </Border.Background>
+            </Border>
+            <TextBox x:Name="text_meesage" HorizontalAlignment="Left" Height="40" Margin="53,262,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="338" BorderBrush="#FFE71358" BorderThickness="0" HorizontalContentAlignment="Center" FontSize="13" Visibility="Hidden" VerticalContentAlignment="Center" IsReadOnly="True" SelectionBrush="{x:Null}" Focusable="False"/>
+            <Border x:Name="border_meesage" HorizontalAlignment="Left" Height="40" Margin="53,262,0,0"   VerticalAlignment="Top" Width="338" BorderBrush="#FFE71358" BorderThickness="2"  Visibility="Hidden"    Focusable="False"/>
+
+        </Grid>
+
+        <Image x:Name="image_big" HorizontalAlignment="Left" Height="801" VerticalAlignment="Top" Width="1099" Source="image/Default_Bicycle_racing_background_image_3.jpg" Stretch="UniformToFill" Focusable="True"/>
+
+
+    </Grid>
+</Window>

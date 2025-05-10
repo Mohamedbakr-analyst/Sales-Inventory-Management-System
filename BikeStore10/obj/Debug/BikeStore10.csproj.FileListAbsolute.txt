@@ -1,0 +1,156 @@
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.AssemblyReference.cache
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\MainWindow.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\App.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\MainWindow.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\BikeStore10.Properties.Resources.resources
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.GenerateResource.cache
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.CoreCompileInputs.cache
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\App.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\homebage_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\homebage_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\ScottPlot.dll
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\ScottPlot.WPF.dll
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\System.Drawing.Common.dll
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\System.ValueTuple.dll
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\ScottPlot.xml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\System.ValueTuple.xml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.CopyComplete
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Products_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Products_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Customer_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Rebort_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Saels_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\User_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Customer_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Rebort_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Saels_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\User_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\bill_1.g.cs
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\bill_1.baml
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\Bike Store.exe.config
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\Bike Store.exe
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\bin\Debug\Bike Store.pdb
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Bike Store_MarkupCompile.cache
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Bike Store_MarkupCompile.lref
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Bike Store.g.resources
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Bike Store.exe
+C:\Users\legion\source\repos\BikeStore10\BikeStore10\obj\Debug\Bike Store.pdb
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\Bike Store.exe.config
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\Bike Store.exe
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\Bike Store.pdb
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\ScottPlot.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\ScottPlot.WPF.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\System.Drawing.Common.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\System.ValueTuple.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\ScottPlot.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\bin\Debug\System.ValueTuple.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.AssemblyReference.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\bill_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Customer_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\homebage_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\MainWindow.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Products_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Rebort_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Saels_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\User_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\App.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Bike Store_MarkupCompile.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Bike Store_MarkupCompile.lref
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\App.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\bill_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Customer_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\homebage_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\MainWindow.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Products_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Rebort_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Saels_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\User_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Bike Store.g.resources
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\BikeStore10.Properties.Resources.resources
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.GenerateResource.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.CoreCompileInputs.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\BikeStore10.csproj.CopyComplete
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Bike Store.exe
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\BikeStore10\obj\Debug\Bike Store.pdb
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\Bike Store.exe.config
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\Bike Store.exe
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\Bike Store.pdb
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\ScottPlot.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\ScottPlot.WPF.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\System.Drawing.Common.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\System.ValueTuple.dll
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\ScottPlot.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\bin\Debug\System.ValueTuple.xml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\BikeStore10.csproj.AssemblyReference.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\bill_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Customer_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\homebage_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\MainWindow.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Products_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Rebort_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Saels_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\User_1.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\App.g.cs
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Bike Store_MarkupCompile.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Bike Store_MarkupCompile.lref
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\App.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\bill_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Customer_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\homebage_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\MainWindow.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Products_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Rebort_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Saels_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\User_1.baml
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Bike Store.g.resources
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\BikeStore10.Properties.Resources.resources
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\BikeStore10.csproj.GenerateResource.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\BikeStore10.csproj.CoreCompileInputs.cache
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\BikeStore10.csproj.CopyComplete
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Bike Store.exe
+D:\GitHub_Up\SalesAndInventoryManagementSystem\BikeStore10\obj\Debug\Bike Store.pdb
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\Bike Store.exe.config
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\Bike Store.exe
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\Bike Store.pdb
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\ScottPlot.dll
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\ScottPlot.WPF.dll
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\System.Drawing.Common.dll
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\System.Numerics.Vectors.dll
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\System.ValueTuple.dll
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\ScottPlot.xml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\System.Numerics.Vectors.xml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\bin\Debug\System.ValueTuple.xml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\BikeStore10.csproj.AssemblyReference.cache
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\bill_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Customer_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\homebage_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\MainWindow.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Products_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Rebort_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Saels_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\User_1.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\App.g.cs
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Bike Store_MarkupCompile.cache
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Bike Store_MarkupCompile.lref
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\App.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\bill_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Customer_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\homebage_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\MainWindow.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Products_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Rebort_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Saels_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\User_1.baml
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Bike Store.g.resources
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\BikeStore10.Properties.Resources.resources
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\BikeStore10.csproj.GenerateResource.cache
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\BikeStore10.csproj.CoreCompileInputs.cache
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\BikeStore10.csproj.CopyComplete
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Bike Store.exe
+D:\GitHub_Up\Sales&Inventory-Management-System\BikeStore10\obj\Debug\Bike Store.pdb
